@@ -37,3 +37,23 @@ body {
       height: 200px;
       width: 200px;
   }
+
+.box {
+    height: 200px;
+    width: 400px;
+    background-color: lightpink;
+    flex-wrap: wrap;
+}
+
+.box2 {
+    height: 200px;
+    width: 400px;
+    background-color: rgb(245, 183, 245);
+    flex-wrap: wrap;
+}
+.box3 {
+    height: 200px;
+    width: 400px;
+    background-color: lightblue;
+    flex-wrap: wrap;
+}
